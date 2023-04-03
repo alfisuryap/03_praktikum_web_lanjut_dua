@@ -28,13 +28,12 @@
                     <h4 style="font-weight: bold">Pengalaman Kuliah</h4><br><br>
                     <img src="dist/img/suryaa.png" alt="foto" style="width:200px"> <br><br>    
                     <h4 style="font-weight: bold">Alfi Surya Pratama | 2141720075</h4>
-                    <p" >Namaku Dhito. Aku berasal dari bangkalan, tepatnya Kecamatan Blega. 
-                    Tahun 2020 aku dinyatakan lulus dari SMA Negeri 1 Blega. Setelah lulus SMA aku memutuskan untuk
-                    melanjutkan ke jenjang pendidikan yang lebih tinggi. Aku berjuang mengikuti test kesana kemari, 
-                    namun hasilnya aku tetap saja gagal. Pada akhirnya aku mendapaktan informasi tentang prodi teknik informatika 
-                    Politeknik Negeri Malang (Polinema) yang merupakan salah satu Politeknik Terbaik di Indonesia. 
-                    Aku memutuskan untuk memilih jurusan Teknologi Informasi dalam UTBK, 
-                    dan alhasil Alhamdulillah ternyata aku diterima.
+                    <p" >Halo!!! Perkenalkan nama saya Alfi Surya Pratama, sering dipanggil Alfi atau Surya. Saya berasal dari Jakarta, tepatnya di kota Jakarta Timur. 
+                          Saya adalah lulusan dari MAN 3 Jakarta pada tahun 2021. Jauh sebelum lulus dari bangku SMA, saya memutuskan untuk lanjut ke bangku perguruan tinggi.
+                          Pada awalnya tidak terpikir sedikitpun bahwa saya ingin mengambil program studi Teknik Informatika ini, tapi pada akhirnya saya memutuskan untuk 
+                          mengambilnya. Banyak jalur yang saya ikuti demi mendapatkan perguruan tinggi negeri yang saya ingin. Dan pada akhirnya saya diterima di Politeknik Negeri
+                          Malang pada Program Studi D-IV Teknik Informatika melalui jalur SBMPTN. Politeknik Negeri Malang ini adalah salah satu perguruan tinggi vokasi terbaik
+                          di Indonesia. Saya sangat bersyukur dapat diterima di perguruan tinggi ini.
                     </p>
                 </center>
             </div>
